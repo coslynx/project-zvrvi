@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "youtubeApiKey": "YOUR_YOUTUBE_API_KEY",
+  "spotifyClientId": "YOUR_SPOTIFY_CLIENT_ID",
+  "spotifyClientSecret": "YOUR_SPOTIFY_CLIENT_SECRET",
+  "soundcloudClientId": "YOUR_SOUNDCLOUD_CLIENT_ID",
+  "soundcloudClientSecret": "YOUR_SOUNDCLOUD_CLIENT_SECRET"
+}
